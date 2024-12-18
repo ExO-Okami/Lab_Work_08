@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
     string g="aAeEiIoOuUyY";
-    string s="bcdfghjklmnpqrstvwxz";
+    string s="bBcCdDfFgGhHjJkKlLmMnNpPqQrRsStTvVwWxXzZ";
     string newstr;
     vector<string> vctr, vctrs, vctrg;
     ifstream file;
